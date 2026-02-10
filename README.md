@@ -12,11 +12,11 @@ Experienced Data Scientist with a Master's from **Chennai Mathematical Institute
 * **Data Scientist**, *IDFC FIRST Bank* | Previous
   * Fraud detection and prevention using machine learning model development and deployment.
 
-### 🛠️ Tech Stack
-![Python]
-![SQL]
-![Machine Learning]
-![PyTorch]
+### 🛠️ Technical Expertise
+* **Languages:** Python (Expert), SQL, R
+* **ML Frameworks:** PyTorch, Scikit-learn, XGBoost, CatBoost
+* **Domains:** Fraud Analytics, Credit Risk, Deep Learning, Big Data
+* **Tools:** Git, Docker, Spark, AWS
 
 ### 📫 Connect with Me
 * 📧 [amansingh00184@outlook.com](mailto:amansingh00184@outlook.com)

@@ -13,10 +13,10 @@ Experienced Data Scientist with a Master's from **Chennai Mathematical Institute
   * Fraud detection and prevention using machine learning model development and deployment.
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io)
-![SQL](https://img.shields.io)
-![Machine Learning](https://img.shields.io)
-![PyTorch](https://img.shields.io)
+![Python]
+![SQL]
+![Machine Learning]
+![PyTorch]
 
 ### 📫 Connect with Me
 * 📧 [amansingh00184@outlook.com](mailto:amansingh00184@outlook.com)

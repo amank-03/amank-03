@@ -15,6 +15,7 @@ Experienced Data Scientist with a Master's from **Chennai Mathematical Institute
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io)
 ![SQL](https://img.shields.io)
+![Machine Learning](https://img.shields.io)
 ![PyTorch](https://img.shields.io)
 
 ### 📫 Connect with Me

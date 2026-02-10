@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @amank-03
-- 👀 I’m interested in Data Science 
-- 🌱 I completed my Master's in Data Science at Chennai Mathematical Institute
-- 💼 I currently work at First Abu Dhbai bank as Senior Data Science in Fraud Detection
-- 📫 You may reach me at amansingh00184@outlook.com/+971 507924004
+# 👋 Hi, I'm Aman Singh (@amank-03)
+
+**Senior Data Scientist | Fraud Detection Specialist**
+
+Experienced Data Scientist with a Master's from **Chennai Mathematical Institute**. Expertise in building high-impact ML solutions for the BFSI sector.
+
+---
+
+### 💼 Professional Experience
+* **Senior Data Scientist**, *First Abu Dhabi Bank (FAB)* | Current
+  * Leading Fraud Detection initiatives using advanced machine learning.
+* **Data Scientist**, *IDFC FIRST Bank* | Previous
+  * Fraud detection and prevention using machine learning model development and deployment.
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io)
+![SQL](https://img.shields.io)
+![PyTorch](https://img.shields.io)
+
+### 📫 Connect with Me
+* 📧 [amansingh00184@outlook.com](mailto:amansingh00184@outlook.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-574064140/)
 
 <!---
 amank-03/amank-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
